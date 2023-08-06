@@ -1,0 +1,1 @@
+Eu e um parceiro criamos este projeto durante a pandemia para podermos usar o bot "Epic RPG" do Discord de forma automática, ou seja, não precisavamos escrever para realizar as ações, a programação fazia isso para nós.
